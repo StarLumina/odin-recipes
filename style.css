@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: pink;
+    font-family: sans-serif, "Verdana";
+    box-sizing: border-box;
+}
+
+div{
+    width: 400px;
+    margin: 40px auto;
+    padding: 40px;
+}
+
+h1{
+    margin: 40px auto;
+    background-color: rgb(236, 140, 172);
+    padding: 12px;
+    border: inset 5px;
+}
+
+li.recipe{
+    background-color: white;
+    border: outset 3px;
+    padding: 5px;
+}
+
+a{
+    background-color: white;
+    color: hotpink;
+}

@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: pink;
+    font-family: sans-serif, "Verdana";
+    box-sizing: border-box;
+    color: white;
+    width: 500px;
+    margin: 12px auto;
+}
+
+img{
+    width: 500px;
+}
+
+div{
+    background-color: rgb(236, 140, 172);
+}
+
+li{
+    background-color:rgb(236, 140, 172);
+    padding: 5px;
+}
+
+.DarkColor{
+    background-color: rgb(236, 140, 172);
+    padding: 12px;
+    border: solid white 2px;
+}
+
+h1.DarkColor{
+    margin: 40px auto;
+    border: inset 5px;
+}
+
+a{
+    background-color: white;
+    color: hotpink;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    font-size: 1em;
+    border: inset 5px;
+    margin-top: 20px;
+    font-weight: 700;
+}
